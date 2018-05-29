@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "5259308459",
+    "firebase_url": "https://bnlhelpdesk-1bf0c.firebaseio.com",
+    "project_id": "bnlhelpdesk-1bf0c",
+    "storage_bucket": "bnlhelpdesk-1bf0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5259308459:android:7dc45fcba33ecf52",
+        "android_client_info": {
+          "package_name": "com.example.android.bnlhelpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5259308459-c6sabfdp0o946p6aifleu8s9ca0etg0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.bnlhelpdesk",
+            "certificate_hash": "ac84816ac3815fc0516dc225ad24e83936f626b2"
+          }
+        },
+        {
+          "client_id": "5259308459-hrh680hj1pa2nqtlujhf3kto3vq76q8t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "5259308459-hrh680hj1pa2nqtlujhf3kto3vq76q8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXDTVi30X3KnACIyaTivIr82NEptIMr9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5259308459-hrh680hj1pa2nqtlujhf3kto3vq76q8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
